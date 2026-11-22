@@ -4,7 +4,7 @@ from telegram import Update
 from telegram.ext import Application, CommandHandler, ContextTypes
 
 # Сюда мы потом вставим ваш токен, но пока оставим так
-TOKEN = "ВАШ_ТОКЕН_ЗДЕСЬ"
+TOKEN = "9105978736:AAGW4pZ70Ie6L9VRzVVRNZDlOiIxoAMWzl0"
 
 # Функция, которая отвечает на команду /start
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
